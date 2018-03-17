@@ -1,14 +1,25 @@
 Bacis Plot with MatplotLib
-
-I 
-Visualisation 
+--------------------------------------------------------------------------------
+I Visualisation 
+--------------------------------------------------------------------------------
 -very important part in data analysys
 --explore dataset
 --report insights
 Data structures
 Control structures
 Case study
-
+--------------------------------------------------------------------------------
 II Histograms
+--------------------------------------------------------------------------------
 --explore dataset
 --get idea about distribution
+--------------------------------------------------------------------------------
+III Scatter 
+--------------------------------------------------------------------------------
+IV Data Visualisation
+--many options
+---different plot types
+---many customisations
+--choise depends on
+---data
+---story you want to tell
