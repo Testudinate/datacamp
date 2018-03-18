@@ -23,3 +23,7 @@ IV Data Visualisation
 --choise depends on
 ---data
 ---story you want to tell
+
+--------------------------------------------------------------------------------
+V Compratison Operators 
+  Boolean Operators
