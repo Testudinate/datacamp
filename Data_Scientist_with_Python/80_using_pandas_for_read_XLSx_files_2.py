@@ -22,21 +22,23 @@ df1 = xl.parse('2004')
 print(df1.head())
 
 # Load a sheet into a DataFrame by index: df2
-df2 = xl.parse('2002')
+df2 = xl.parse(0)
 
 # Print the head of the DataFrame df2
 print(df2.head())
 
 
- War(country)      2004
-0  Afghanistan  9.451028
-1      Albania  0.130354
-2      Algeria  3.407277
-3      Andorra  0.000000
-4       Angola  2.597931
-  War, age-adjusted mortality due to       2002
-0                        Afghanistan  36.083990
-1                            Albania   0.128908
-2                            Algeria  18.314120
-3                            Andorra   0.000000
-4                             Angola  18.964560
+
+<script.py> output:
+      War(country)      2004
+    0  Afghanistan  9.451028
+    1      Albania  0.130354
+    2      Algeria  3.407277
+    3      Andorra  0.000000
+    4       Angola  2.597931
+      War, age-adjusted mortality due to       2002
+    0                        Afghanistan  36.083990
+    1                            Albania   0.128908
+    2                            Algeria  18.314120
+    3                            Andorra   0.000000
+    4                             Angola  18.964560
